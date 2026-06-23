@@ -3,12 +3,9 @@
     flex-wrap: wrap;
     width: 600px;
     height: 600px;
-    margin: auto;
 }
 
 .grid {
     border: 2px solid black;
-    width: 6.25%;
-    height: 6.25%;
     box-sizing: border-box;
 }
